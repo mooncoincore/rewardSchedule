@@ -5,6 +5,7 @@ compile with:
 love,
 baz
 
+
  ./moonreward
 block: 1100000 reward: 17906
 block: 1200000 reward: 16414
