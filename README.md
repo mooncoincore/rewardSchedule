@@ -10,7 +10,6 @@ baz
 block: 1100000 reward: 17906
 
 block: 1200000 reward: 16414
-
 block: 1250000 reward: 4847
 
 block: 1300000 reward: 4474
