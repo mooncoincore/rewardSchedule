@@ -10,7 +10,7 @@ int main(){
    nSubsidyPrev=nSubsidy;
   }
  }
- for(nHeight=1250000;nHeight<5000000;nHeight++){
+ for(nHeight=1250000;nHeight<2147483647;nHeight++){
   nSubsidy = floor( floor(0.29531*19697202017) / (floor(nHeight/100000)*100000) );
   if(nSubsidy!=nSubsidyPrev){
    printf("block: %d reward: %d\n", nHeight, nSubsidy);
