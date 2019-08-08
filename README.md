@@ -8,11 +8,17 @@ baz
 
  ./moonreward
 block: 1100000 reward: 17906
+
 block: 1200000 reward: 16414
+
 block: 1250000 reward: 4847
+
 block: 1300000 reward: 4474
+
 block: 1400000 reward: 4154
+
 block: 1500000 reward: 3877
+
 block: 1600000 reward: 3635
 block: 1700000 reward: 3421
 block: 1800000 reward: 3231
